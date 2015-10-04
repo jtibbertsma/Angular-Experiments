@@ -1,3 +1,3 @@
-# Angular Experiments
+# Click This
 
-This a repository for various experiments that I'll write while learning angular. There's only a basic skeleton in the master branch. Each experiment will have it's own branch. This is convenient because when I want to try something new, I can just checkout the master branch.
+A directive that causes an element to try and escape from the mouse.
